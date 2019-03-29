@@ -1,5 +1,6 @@
 == An Appendix.
 
+[.chapter-subtitle--blurb]
 Containing several conferences,
 which Thomas Story and others had with the Duke of Somerset,
 the Earls of Carlisle and Sunderland, the Archbishops of Canterbury and York,
@@ -8,8 +9,7 @@ to remove the inconveniences which many of the people called Quakers did then li
 by reason of difficulties relating to the forms of the solemn affirmation,
 as prescribed by former Acts of Parliament.
 
-
-I+++.+++ With the Earls of Carlisle and Sunderland.
+=== With the Earls of Carlisle and Sunderland.
 
 Some Friends in London, of whom I was one,
 being in a particular manner concerned in mind,
@@ -27,7 +27,7 @@ to whom he said, "`They (meaning Friends) are an honest good people,
 serviceable and helpful in the nation, and true friends to the government,
 on the principles on which it now stands;
 but because of some opinions they hold in matters of religion,
-the laws are against them in various respects, and particularly in cases of oaths,
+the laws are against them in divers respects, and particularly in cases of oaths,
 which they think not lawful for them,
 as apprehending they are forbidden by Christ under the gospel.
 Be that as it will, I think they deserve relief,
@@ -66,7 +66,7 @@ and also of the form of words agreed to in our yearly meeting.
 
 Some days after this he sent me a letter by a servant, wherein he gave me notice,
 that the Earl of Sunderland was then at his house,
-and might be spoken with before he went from there.
+and might be spoken with before he went thence.
 I went immediately to him; but when I came there, the low rooms were crowded with people,
 some with applications to one of these great men, and some to the other;
 but notifying the Earl of Carlisle, by one of his servants, that I was come,
@@ -120,7 +120,7 @@ I know they are generally as loyal to king George, and true to his government,
 as any of his subjects in all his dominions;
 for I have lately been among them in a general way.
 And the Earl of Carlisle himself likewise knows, that many of our friends,
-whom he has relieved by his interest,
+whom he hath relieved by his interest,
 who had suffered much for noncompliance with the affirmation,
 were as loyal as any others.`"
 The Earl of Sunderland, being himself a very good friend of William Penn,
@@ -129,7 +129,7 @@ Aislaby) was not your friend at that time,
 but you will find him otherwise now:`" and then added with a smile,
 "`He shall be your friend.`"
 To which I returned, "`It is enough!`"
-Then he said, "`It is not so easy a matter as you may think,
+Then he said, "`It is not so easy a. matter as you may think,
 to bring a thing of this nature through both houses; yet we can do it,
 and you need not go to the king about it; for you are in his favor,
 and therefore he will not oppose what we (meaning the
@@ -149,7 +149,7 @@ to learn the mind of the ministry,
 and to be instructed what measures to take in this affair;
 since we are determined not to move, but by their privity and assistance;
 though both the satisfied and dissatisfied are one in this solicitation.
-For as the one side has been willing the other should have their liberty to use it,
+For as the one side hath been willing the other should have their liberty to use it,
 when they could freely do it, for relief of their families,
 without any breach of union among us;
 so the other are willing to join with them in one interest,
@@ -157,14 +157,14 @@ to solicit for such a form as may be easier to all.`"
 
 All this being ended, I made him acknowledgments for his favor,
 and returned with satisfaction and peace,
-not doubling from there forward but that we should succeed;
+not doubling from thence forward but that we should succeed;
 though my confidence was not from what this great minister had said,
 but from the evidence I had from the divine Truth,
 that it was my business and duty in his service,
 and for the help and preservation of his people, to go about it at that time,
 according to what our Society had agreed to among ourselves in the yearly meeting:
 and that saying is worthy of everlasting remembrance,
-"`That whatsoever you shall agree to ask in my name, it shall be granted.`"
+"`That whatsoever ye shall agree to ask in my name, it shall be granted.`"
 And in this name alone do we confide, and did so in that affair.
 
 This passage I related to some Friends concerned fur a new affirmation,
@@ -193,16 +193,16 @@ but I give thanks to the Almighty, by whose grace I am furnished with a better m
 and by whose providence we are furnished with an opportunity,
 to evince to mankind how ready we are to give that liberty,
 and to procure it one for another, which we have desired of our superiors.`"
-And then kindly added, "`I will go with you to any man in England you will desire,
-and you shall be witness yourself of the sincerity of
+And then kindly added, "`I will go with thee to any man in England thou wilt desire,
+and thou shalt be witness thyself of the sincerity of
 my endeavors and solicitations that way,
 and will assist to the utmost of my power with all my heart.`"
 
-I replied, "`I am gad to hear it; and since you have said it,
-no doubt can remain with me of your sincerity,
-and you may do it in your own way and time;
-for such an inspection does not become the friendship I owe you,
-nor the just confidence I place in you.`"
+I replied, "`I am gad to hear it; and since thou hast said it,
+no doubt can remain with me of thy sincerity,
+and thou mayst do it in thy own way and time;
+for such an inspection does not become the friendship I owe thee,
+nor the just confidence I place in thee.`"
 So we parted at that time.
 
 I mentioned likewise the same matter to my very sure friend Joseph Wyeth;
@@ -218,16 +218,15 @@ for the good king George very much favored our applications,
 and passed the Act for our relief in that case with all readiness,
 from a real favor to our Society, and a settled design and purpose to do us good.
 And yet the whole is to be attributed to the goodness and mercy of God to his people,
-to preserve us as one in him, who turns the hearts of kings as the streams of water,
-and does in the kingdoms of men whatsoever he pleases.
+to preserve us as one in him, who turneth the hearts of kings as the streams of water,
+and doth in the kingdoms of men whatsoever he pleaseth.
 And it was very obvious that the divine Truth was over
 the legislature in a general way at that time,
 though some of the lords, who were anti-courtiers,
 and opposers of all the king`'s measures, did not assent;
 yet not in dislike to our liberty, etc.
 
-
-2+++.+++ With the Duke of Somerset.
+=== With the Duke of Somerset.
 
 The day whereon the Act passed, in the morning, along with some others,
 I waited on the Duke of Somerset, at Northumberland House, by Charing-Cross,
@@ -244,7 +243,7 @@ being influenced by the bishops of York, Chester, Rochester, and the rest of tha
 but if they should, they are obnoxious, and will not be heard: and as to Cambridge,
 they have done nothing, and I being their head,
 (He was Chancellor to the University)  they can do nothing without me;
-and to make you easy, they shall not do anything against you in this concern.`"
+and to make you easy, they shall not do any thing against you in this concern.`"
 And then he said, "`There are a company of fellows, calling themselves the clergy,
 in and about the city of London, who have sent in a petition,
 wherein they pretend to blame both houses of Parliament for encouraging a sect,
@@ -271,7 +270,7 @@ two pence in farthings, and a dish of coffee.
 
 This first occasioned the duke to smile,
 and afterward drew from him some warm expressions of resentment,
-that the poorer sort should live so abjectly, while the rich were so high;
+that the poorer sort should live so abjectly, whilst the rich were so high;
 but most of all,
 that the rich should set so low a price upon the services of their poor brethren,
 who did the work: and then he added,
@@ -296,13 +295,12 @@ first to the Lord for his great goodness, in inclining the heart of the king,
 and those of both Houses, so much to favor us; and next to them likewise,
 as instruments in his hand of so good a work, and so great an ease and help to us.
 
-
-3+++.+++ With the bishops of Canterbury, York, and Carlisle, separately.
+=== With the bishops of Canterbury, York, and Carlisle, separately.
 
 John Fallowfield, myself, and one more, going to Lambeth,
 to solicit the concurrence of William Wake, then archbishop of Canterbury, with us,
-in our endeavors with the king and Parliament to
-procure an affirmation instead of an oath,
+in our endeavours with the king and Parliament
+to procure an affirmation instead of an oath,
 in terms less exceptionable than that then in force,
 the bishop gave us a courteous and friendly reception;
 and when we had told him our business, and exhibited our request, he, in a solemn manner,
@@ -356,8 +354,8 @@ are not always so just as to place the odium upon the single and immediate oppre
 but rather to apply it to the whole body, and say.
 See the clergy, who pretend to teach religion, how uncharitable, how covetous,
 how cruel they are: here is a poor honest man and his family ruined for a trifle.
-Now, considering the station and authority you bears in the national church,
-if you would be pleased to advise them to greater moderation,
+Now, considering the station and authority thou bears in the national church,
+if thou would be pleased to advise them to greater moderation,
 it might be helpful to many,
 and prevent the odium which really militates against themselves,
 as well as oppresses us.`"
@@ -378,8 +376,8 @@ and expressive of the thing;
 only we think excommunication ought not to reach so far as they extended it;
 it should not extend to men`'s liberty, property, or persons.
 What we mean by excommunication is this:
-when anyone among us goes into any immoral practices or acts,
-and after due admonition persists in anything
+when any one among us goes into any immoral practices or acts,
+and after due admonition persists in any thing
 contrary to the Christian faith and religion,
 as we understand it, we deny such a one Christian communion,
 or to be a member of our Society, until he repent, and by better conduct,
@@ -388,7 +386,7 @@ And when such a delinquent is become a true penitent,
 and desires to be reconciled to the body,
 we apprehend it is as much the duty of the Society to receive him when so stated,
 as before to bear witness against him, and deny, or excommunicate him.`"
-The bishop made no reply to this; but only said, "`It is immoral in anyone,
+The bishop made no reply to this; but only said, "`It is immoral in any one,
 of any society, to break or reject the rules and orders of the society he belongs to,
 or makes profession with; I say, such persons are in)moral,
 and are not fit for any communion.`"
@@ -432,7 +430,7 @@ To this I replied,
 "`That it being matter of conscience in all of us that are true to our principles,
 we could not justify any of our friends in taking any bye-ways
 or equivocal methods to elude our profession in that case;
-for whatsoever any man professes as any part or incident of the Christian religion,
+for whatsoever any man professeth as any part or incident of the Christian religion,
 he ought to be sincere therein;
 and it were more manly and Christian to act openly as one is inwardly persuaded,
 than to profess one thing openly, and act another contrary in secret;
@@ -444,45 +442,45 @@ and how that matter stands among us at this day.
 "`That we believe the true gospel ministry and Christian religion comes not by tradition,
 imitation, or succession, as from the apostles and primitives,
 but immediately from Christ himself; who, according to his promise,
-has ever been with his church, and ever will be, to the end of the world,
+hath ever been with his church, and ever will be, to the end of the world,
 as a fountain of life and salvation unto her.
-That he only has right and power to call, sanctify, and qualify,
-whomsoever he pleases as ministers and officers in his congregation,
+That he only hath right and power to call, sanctify, and qualify,
+whomsoever he pleaseth as ministers and officers in his congregation,
 or amongst his people; which is of his own seeking, congregating, baptizing, and saving,
 by the revelation, operation, and agency of his Holy Spirit.
 And we observe that now, as in times past,
-he takes the weak things of this world whereby to overpower the strong,
+he taketh the weak things of this world whereby to overpower the strong,
 and foolish whereby to confound the wisdom of the wise,
 that no flesh may boast before him.
 And when at any time we are sitting together in silence, as we usually do,
 waiting upon the Almighty for the influence of his Holy Spirit, that we may be comforted,
 refreshed, and edified thereby,
-if anyone has his understanding enlightened thereby into any edifying matter,
+if any one hath his understanding enlightened thereby into any edifying matter,
 and moved and enabled to speak, the rest have proper qualifications, by the same Spirit,
 to discern and judge, both of the soundness of his speech and mailer,
-and also of the spirit and fountain from which his ministry does arise;
+and also of the spirit and fountain from which his ministry doth arise;
 and if from the Holy Spirit of Christ, who is Truth,
-it has acceptance with the congregation, and though but in a few words,
-it is comfortable and edifying; for as the palate tastes meats, so the ear,
-or discerning faculties, of an illuminated, sanctified mind, distinguishes words,
+it hath acceptance with the congregation, and though but in a few words,
+it is comfortable and edifying; for as the palate tasteth meats, so the ear,
+or discerning faculties, of an illuminated, sanctified mind, distinguisheth words,
 and the fountain from which they spring.
 And such a person thus appearing, may so appear at another time,
 and be enlarged in word and in power, and so on gradually,
-till he has given proof of his ministry to his friends and brethren, among whom,
-in the neighborhood, he has been exercised therein,
+till he hath given proof of his ministry to his friends and brethren, among whom,
+in the neighborhood, he hath been exercised therein,
 until he becomes a workman in the gospel, in some good degree fitted for the service;
-and then it may so happen, as often it does,
+and then it may so happen, as often it doth,
 that this person is moved or called by the Word of God,
 to travel in this service in some other places remote from his habitation,
 which will take him off from his business whereby he maintains himself,
 his wife and family; suppose him to be a cobbler of old shoes, a patcher of old clothes,
 or the meanest mechanic that can be named, poor,
-and not able to fit himself with common necessaries for his journey, he lacks a horse,
+and not able to fit himself with common necessaries for his journey, he wanteth a horse,
 though some only walk, clothing and the like;
 in such a case the Friends of the meeting to which he belongs provide all such things,
 and furnish him.
 And if in that service he is so long from home, as that his horse fails,
-and his clothes wear out, and necessaries are lacking unto him,
+and his clothes wear out, and necessaries are wanting unto him,
 then the Friends where he travels, where his service is acceptable,
 take care to furnish him till he returns to his family and business.
 And in the time of his absence from them,
@@ -521,8 +519,7 @@ and I pray God bless you and prosper you in your undertakings;
 for we ought to pray for one another, and desire the best things one for another.`"
 And so we departed in peace and satisfaction.
 
-
-4+++.+++ With the Bishop of York, sir William Dawes, Bart.
+=== With the Bishop of York, sir William Dawes, Bart.
 
 Going to the Bishop of York to solicit his favor and concurrence in the House of Lords,
 for altering the terms of our solemn affirmation,
@@ -559,25 +556,25 @@ and '`the reasoning therein supposed to be strong in support of judicial swearin
 that Parliament would not grant us any relief in any other
 terms but in the words of the doctor`'s definition of an oath,
 a little improved.
-For whereas he says in his sermon.
+For whereas he saith in his sermon.
 An oath is a solemn appeal to God as a witness of the truth, etc.,
 the Parliament added the word Almighty to the word God,
 setting forth the Supreme Being in his highest attribute as a witness
 in the most trivial cases occurring among the children of men,
-while a mortal sits as judge in the cause.
+whilst a mortal sitteth as judge in the cause.
 And whereas,
 the particle a might denote the most High as a
 witness only on the level with other witnesses,
 the Parliament wisely and more reverently changed the
 particle a to the more proper words the witness.,
 by way of super-eminence, as justly due.
-For where the God of Truth is witness, there needs no other; and to suppose there does,
+For where the God of Truth is witness, there needeth no other; and to suppose there doth,
 is derogatory to his divine majesty, and blasphemous:
 of which many of our people were aware, and therefore shunned it, and could not comply;
 though some others not so well apprized of the nature of an oath, did use it:
 but we as a body of people, never agreed to it; for our yearly meeting,
 which represents us and our principles in the most collective and general manner,
-has always agreed to solicit the government for a more proper form,
+hath always agreed to solicit the government for a more proper form,
 when it might please God to incline their hearts to so much goodness;
 and we hoping this is the time, have proposed the form now before the House.`"
 The bishop replied, "`That he was not our enemy,
@@ -639,7 +636,7 @@ that they are generally principled against the form of the present affirmation;
 and this endeavor for further ease and liberty of conscience in the case,
 is by consent and direction of our whole body,
 represented in our yearly meeting here in London,
-and not by any particular party or side only: so that I hope your objection, as to a few,
+and not by any particular party or side only: so that I hope thy objection, as to a few,
 is fully answered.
 And if there were but a few in a nation under that circumstance,
 charity ought not to be withheld for that reason,
@@ -656,67 +653,67 @@ Whether Christ, in his doctrine, had prohibited all swearing;
 they commonly alleging he only forbade profane swearing in conversation,
 but not swearing in evidence?
 I assumed the affirmative,
-"`That the Lord Christ has abolished all oaths out of his church;
-and alleged for proof the fifth chapter of Matthew, where he says,
+"`That the Lord Christ hath abolished all oaths out of his church;
+and alleged for proof the fifth chapter of Matthew, where he saith,
 '`Except your righteousness shall exceed the righteousness of the scribes and pharisees,
 you shall in no case enter the kingdom of heaven.`'
-And then, in several points, he sets forth what their righteousness did amount to,
-namely: '`You have heard it was said by them of old time.
-You shall not commit adultery; but I say unto you,
-that whosoever looks on a woman to lust after her,
-has committed adultery with her already in his heart.`'
+And then, in several points, he sets forth what their righteousness did amount to, viz:
+'`You have heard it was said by them of old time.
+Thou shall not commit adultery; but I say unto you,
+that whosoever looketh on a woman to lust after her,
+hath committed adultery with her already in his heart.`'
 Here, by taking away the cause, which is an unlawful desire in the heart,
 he prevents the act, and makes it impossible, where there is no conception of desire;
 for there begins the sin.
-Again, '`You have heard it has been said by them of old time.
-You shall love your neighbor, (or friend) and hate your enemy; but I say unto you,
+Again, '`You have heard it hath been said by them of old time.
+Thou shalt love thy neighbor, (or friend) and hate thine enemy; but I say unto you,
 love your enemies,`' etc.
 Now where the heart is filled with the love of God,
-in which Christ laid down his life for mankind, while yet enemies,
+in which Christ laid down his life for mankind, whilst yet enemies,
 in which we can have love and compassion even for enemies, the cause of fighting,
 and destroying one another as enemies, is taken away;
 men are reconciled unto God through Christ, and one unto another in him; and so abiding,
 cannot fight or destroy any more; as it is written,
-'`They shall not hurt nor destroy in all my holy mountain, says the Lord.`'
+'`They shall not hurt nor destroy in all iny holy mountain, saith the Lord.`'
 Thus far in parables to introduce and illustrate the point in question;
-and now home to that, '`You have heard it has been said by them of old time,
-You shall not forswear yourself, but perform unto the Lord your oaths;
+and now home to that, '`You have heard it hath been said by them of old time,
+Thou shalt not forswear thyself, but perform unto the Lord thine oaths;
 but I say unto you, swear not at all.`'
 Here the Lord begins with oaths of the highest nature,
 used under the law on the most solemn occasions; which, whosoever falsified,
 were perjured: and where there is swearing there may be perjury;
 but where there is no swearing, there can be no perjury; where the cause is taken away,
 the effect will cease.
-And as he all along advances the morality of the gospel above that of the law,
+And as he all along advanceth the morality of the gospel above that of the law,
 in all other instances, so in this also: for if he had only forbid profane swearing,
 he had done no more than Moses had done in the point; where it is said,
-'`You shall not take the name of the Lord your God in vain;`'
+'`Thou shalt not take the name of the Lord thy God in vain;`'
 which command every one breaks in a most impious sense,
 who swears in conversation.
 The Lord having thus prohibited the once lawful oaths,
 he proceeds to explain the tendency of their invented oaths,
 which they used in conversation, and on small occasions,
 the breach whereof they did not seem to think was perjury,
-'`Neither shall you swear by heaven; for it is God`'s throne,
-and he who swears by the throne of God, swears by him that sits thereon:
-neither shall you swear by the earth;
+'`Neither shalt thou swear by heaven; for it is God`'s throne,
+and he who sweareth by the throne of God, sweareth by him that sitteth thereon:
+neither shalt thou swear by the earth;
 for it is his footstool:`' and by parity of consequence,
-he that swears by the footstool of God, swears by him whose footstool it is.
-'`Neither shall you swear by Jerusalem; for it is the city of the great King:
-nor by your head;
-because you can not make one hair white or black:
-'` both which result and terminate the same way;
+he that sweareth by the footstool of God, sweareth by him whose footstool it is.
+'`Neither shalt thou swear by Jerusalem; for it is the city of the great King:
+nor by thy head;
+because thou canst not make one hair white or black:`'
+both which result and terminate the same way;
 such swear by the Lord, the King of kings,
 whose name and temple were placed in Jerusalem in the time of the law; and the head,
 as all the parts of man, being formed of the Lord, to swear thereby,
 is to swear by his Maker.
 Thus swearing by heaven, earth, Jerusalem, the altar, the gold thereon, the head,
 or any creature, every oath, is forbidden in conversation, as well as judicial swearing;
-'`but let your conversation (and communication) be yes, yes, no, no;
-for whatsoever is more than these comes of evil;`' of the evil one, which is the devil.
-Leave of Tlyinc, '`and every man speak truth to his neighbor;
+'`but let your conversation (and communication) be yea, yea, nay, nay;
+for whatsoever is more than these cometh of evil;`' of the evil one, which is the devil.
+'`Leave off lying, and every man speak truth to his neighbor;
 and use no higher asseveration in your speech,
-than redoubling your yes on solemn occasions; as by example of your Lord, '`verily,
+than redoubling your yea on solemn occasions; as by example of your Lord, '`verily,
 verily.`'`"
 
 The bishop heard me with patience; and which gave me some surprise,
@@ -730,17 +727,18 @@ that he may think amiss, or wrest to such an appearance as he would have it.
 But every work should be examined with an impartial view,
 by a mind not prejudiced or prepossessed, comparing one part with another,
 till the true mind, intent, and meaning of the writer be discovered; and then,
-if any real error appear, to confute it by obvious truth; which needs no gloss,
+if any real error appear, to confute it by obvious truth; which needeth no gloss,
 or color of sophistry:
 but when an opponent subtly and willfully wrests the words of his antagonist,
-and imposes a meaning thereon which the author did not intend, this opponent is a forger,
-combating his own invention, militates against himself, and is felo de se in argument.`"
+and imposeth a meaning thereon which the author did not intend,
+this opponent is a forger, combating his own invention, militates against himself,
+and is felo de se in argument.`"
 Upon this the bishop generously acknowledged,
 "`That no man ought to oppose the works of another,
 till he was fully master of the author`'s real sense,
 and did at least believe it to be wrong or heterodox.`"
 
-Then I said, "`That we had met with very hard usage in the House of Lords,
+ Then I said, "`That we had met with very hard usage in the House of Lords,
 and particularly by the Bishop of Rochester (the same
 that afterwards was banished for treasonable practices);
 that at the same time when we, as a Christian people,
@@ -798,7 +796,7 @@ affected me with a friendly concern;
 for he had as much of the gentleman as bishop in him,
 and the former seemed rather predominant.
 
-5+++.+++ With Dr. Bradford, Bishop of Carlisle.
+=== With Dr. Bradford, Bishop of Carlisle.
 
 Peter Fearon, an ancient minister, and John Irwin aforesaid, being Cumberland men,
 went to solicit Dr. Bradford, then Bishop of Carlisle, in our favor,
@@ -830,7 +828,7 @@ and the other two Friends leaving the matter to me, I answered,
 he did not advance the morality and righteousness of
 the gospel above that of the law in that point,
 as in every other particular there mentioned, he certainly did;
-and added ,That there is not a word in that text, which by any tolerable construction,
+and added, That there is not a word in that text, which by any tolerable construction,
 or by any propriety, can be rendered communication from the Greek original.
 For the word is Aogou, the same used in the first of John, signifying word or speech;
 which word is truth, signifying that the righteousness of the gospel,
@@ -867,7 +865,7 @@ and some of them do, degenerate into immoral practices of some sorts;
 though our Society takes all practicable care to prevent it,
 according to the stated rules among us, and by all Christian ways and means.
 We pray for them, we example them, admonish, advise, exhort, reprove,
-and rebuke them as need may require; and after all, if anyone among us persist in evil,
+and rebuke them as need may require; and after all, if any one among us persist in evil,
 we proceed against such according to the rules of our Society,
 finally to deny them as not of our communion; and that is all we do,
 or think we ought to do, in such cases.
@@ -879,7 +877,7 @@ yet bearing false witness being so great an evil, and so easily discovered,
 we hope none among us would be guilty of it; but if any should,
 let the penalty of perjury be fully inflicted upon him:
 and therefore we are encouraged to make this application.
-And since you are pleased to acknowledge your sentiments,
+And since thou art pleased to acknowledge thy sentiments,
 that Christ and his apostles by their doctrine have
 prohibited all oaths and swearing of every kind,
 there must be a time wherein it must be begun to
@@ -889,14 +887,14 @@ A nation is not born in a day;
 nor did the Lord Jesus himself call and convert all his disciples at once;
 it was a gradual work, though in the hand of him by whom the worlds were made.
 And as the Christian world, so called,
-has suffered an exceeding great lapse and degeneracy from the doctrines, morality,
+hath suffered an exceeding great lapse and degeneracy from the doctrines, morality,
 sanctity, and practice of Christ and his apostles, and the other early primitives;
 so in the main they are more anti-christians than Christians.
 
 The Almighty, who makes choice of the foolish things of this world,
 whereby to confound the wisdom of the wise, the weak whereby to overcome the mighty,
 and even things that are not, to bring to naught the things that are,
-'`that no flesh may glory before him,`' has raised up and chosen us as a people,
+'`that no flesh may glory before him,`' hath raised up and chosen us as a people,
 in and by whom to begin this reformation in religion, in doctrine and practice;
 not by human power, for that is against us, nor by the wisdom of this world,
 of which we have little, or the learn, ing or acquirements thereof,
@@ -906,7 +904,7 @@ down his life upon the cross for the redemption of mankind;
 wherewith being mercifully favored of God,
 and having believed through the operation thereof in our hearts,
 we have hitherto suffered all things for his name`'s sake,
-which has been permitted to be inflicted upon us by this and other nations,
+which hath been permitted to be inflicted upon us by this and other nations,
 where we have been raised up, or have come.
 And we hope we have given Christian proof of our sincerity,
 to the minds of all sober and thinking people,
@@ -916,7 +914,7 @@ wherein we are supported by the wisdom and power of God alone,
 as witnesses for him on earth,
 and to the redemption and salvation brought to pass for
 us and in us through Jesus Christ our Lord.
-And since you profess yourselves to be Christian bishops,
+And since ye profess yourselves to be Christian bishops,
 (for we applied to them all) and we apply to you for
 relief where our consciences are yet oppressed by laws,
 and where you, by your offices in the national church, have a share for the time being,
