@@ -156,7 +156,7 @@ and the Son of Righteousness arose in me with divine
 healing and restoring virtue in His countenance;
 so He became the center of my mind.
 
- In this wonderful operation of the Lord`'s power, denouncing judgment in tender mercy,
+In this wonderful operation of the Lord`'s power, denouncing judgment in tender mercy,
 and in the hour of my deepest concern and trial, I lost my old self,
 and came to the beginning of the knowledge of Him, the just and the holy One,
 whom my soul had longed for.
@@ -372,7 +372,6 @@ and by His secret workings pressed me forward.
 
 +++[+++At another time he penned the following prayer:]
 
-
 O Almighty, incomprehensible, and infinitely merciful Lord God,
 forasmuch as none can enter into Your rest, unless he be regenerated and renewed,
 I humbly beg, in the name and for the sake of Your Son Christ,
@@ -403,7 +402,6 @@ they were from time to time presented in my mind.
 +++[+++The following written prayer shows that he also experienced an ebbing of
 the divine life after seasons of enjoyment of which he has spoken.]
 
-
 O Lord, take pity on a perishing soul, borne down under a multitude of vile affections,
 trodden under foot by the insolence of the wicked one!
 I faint under the yoke, O most faithful and true, and have no hope but in You.
@@ -418,7 +416,7 @@ and let Your mercies be ever before me.
 Raise me, that I may praise You in the firmament of Your power.
 Humble me, that I may exalt Your name in the midst of the nations.
 
-A deep consideration entered into my mind con­cerning the
+A deep consideration entered into my mind concerning the
 states of many persons in the national way of worship,
 as also among the various dissenters from it.
 I had occasionally heard some of their preachers,
@@ -503,8 +501,8 @@ for the national worship was not agreeable to him.
 I gave liberty, and he and his son came accordingly to my chamber,
 where I was sitting alone in silence, waiting upon the Lord.
 After a civil reception and short pause of silence,
-he began to magnify the great providence of God in re-
-establishing and advancing the Independents and Presbyterians,
+he began to magnify the great providence of God in re-establishing
+and advancing the Independents and Presbyterians,
 who had been so much hated, persecuted, and suppressed,
 but were now to be made the chief instruments of deliverance, restoration,
 and reformation to the right way of the Lord, and to His own glory.
@@ -539,7 +537,7 @@ he embraced me in his arms, rejoicing that he had met with me,
 but said no more on any religious subject.
 Soon after he departed, and I saw him no more.
 
-I now proceed with the account of my further pro­gress.
+I now proceed with the account of my further progress.
 In writing the last paragraph of a piece, the people called Quakers were suddenly,
 and with some surprise, brought to my mind.
 So strongly were they impressed upon my remembrance that, from that time forward,
@@ -601,8 +599,8 @@ through Jesus Christ, the Son of God and Savior of the world.
 And my joy was the more full,
 perceiving I had been under the like mistake as the prophet of old,
 but now was otherwise informed by a sure evidence, by the witness of the divine truth,
-in which no living soul can err or be deceived--being self-
-evident and undeniable in all those who truly know Him.
+in which no living soul can err or be deceived--being
+self-evident and undeniable in all those who truly know Him.
 
 Our joy was mutual and full, though in many tears,
 as in cases of the deepest and most unfeigned love.
@@ -660,7 +658,7 @@ but the heavens were as thick brass, and their bars as strong iron.
 But though I had no enjoyment in myself,
 yet I was sensible that the presence and goodness of the Lord were there,
 and many were greatly comforted thereby.
-I therefore con­cluded that my condition of mind was from some other cause,
+I therefore concluded that my condition of mind was from some other cause,
 and not related to the state of the meeting in general.
 
 After the meeting had ended, one of them asked me how I was.
@@ -1006,8 +1004,10 @@ through the one Spirit among the sanctified in Christ,
 as the members of Christ sit together in a state
 of holy silence in their heavenly places in Him.
 
-*   *   *
+[.asterism]
+'''
 
+[.emphasized]
 Thomas Story went on to become an extremely gifted and
 serviceable minister in the Society of Friends,
 traveling all over England, Ireland, Scotland, Holland, Jamaica, Barbados,
@@ -1015,6 +1015,7 @@ and the American colonies.
 He was known for both his spiritual depth and his intellectual genius,
 and his writings became very influential among Quakers.
 
+[.emphasized]
 In 1695 Thomas Story befriended William Penn,
 and in 1698 sailed to Pennsylvania (at Penn`'s request) where
 he held several public offices in the developing province.
