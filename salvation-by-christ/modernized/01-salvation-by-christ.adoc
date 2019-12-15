@@ -1,5 +1,6 @@
 == Salvation by Christ
 
+[.chapter-subtitle--blurb]
 An Excerpt from the Journal of Thomas Story
 
 I begin then with the purpose of God to make man; when he was perfected as man,
@@ -63,10 +64,16 @@ He is called Jesus Christ,
 First unto the Jews in the flesh, as born of the Virgin; and secondly, unto the Gentiles,
 as "`the true Light, who enlightens every man who comes into the world.`"
 
+[.small-break]
+'''
+
 Now consider: 1st--The testimony of good old Simeon concerning Him,
 through the Holy Ghost,
 that "`He is a Light to bring revelation to the Gentiles,`" and in that respect,
 their light and salvation, according to the promise of the covenant of God aforegoing.
+
+[.small-break]
+'''
 
 2ndly--The evidence of John, where he is full and express, saying,
 "`In the beginning was the Word, and the Word was with God, and the Word was God.
@@ -75,6 +82,9 @@ That was the true light which enlightens every man who comes into the world.
 And the Word was made (or assumed) flesh, and dwelt among us, (and we beheld His glory,
 the glory as of the only begotten of the Father) full of grace and truth.
 And of His fulness have all we received, and grace for grace.`"
+
+[.small-break]
+'''
 
 3rdly; The witness of Christ himself, where He says, "`I am the light of the world;
 he that follows Me, shall not walk in darkness, but shall have the light of life.`"
