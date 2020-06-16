@@ -443,6 +443,9 @@ hinder the service of our meeting.
 On the first day of it, being the 24th of the eighth month,
 George Keith sent the priest with a paper, purporting:
 
+[.numbered-group]
+====
+
 [.numbered]
 1st, an advertisement, that he purposed to have a meeting at the house of one in town,
 to begin about the eleventh hour the next day, being in the middle of our meeting,
@@ -470,6 +473,8 @@ and a demonstration to all intelligent persons that he had not wronged us in the
 but that our principal friends, with whom we joined,
 have and do hold most gross and damnable errors, to the great hurt of our souls,
 and scandal of the Christian religion.`"
+
+====
 
 This being directed to two of our ministers in particular, and to the rest in general,
 I asked his messenger, Talbot,
