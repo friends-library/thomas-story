@@ -918,6 +918,9 @@ and have not done well to lie under it so long, but should have told me of it th
 
 They owned that, and I added:
 
+[.numbered-group]
+====
+
 [.numbered]
 "`1st;
 That if mankind in their infancy were members of Christ, they were without sin;
@@ -982,6 +985,8 @@ your dark and blind leaders have caused you thus to err, and lead you thus astra
 for if you had then been born again of the incorruptible Seed and Word of God,
 so many gross sins would not now be reigning in you,
 since he that is born of God sinneth not.`"
+
+====
 
 To this purpose was what I had said, and now repeated to them,
 who did not contradict any thing, but were very kind;

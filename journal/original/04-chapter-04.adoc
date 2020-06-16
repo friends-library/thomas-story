@@ -681,6 +681,9 @@ or greater destruction on Friends and others,
 differing from their imaginations in matters of religion.
 A few of which being inserted here, may confirm this observation, and are as follow:
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ The General Assembly of the Kirk of Scotland, published the following act:
 "`Edinburgh, December 24th, Post Meridian.
@@ -781,6 +784,8 @@ they have thrown stones in at their windows, to the hazard of their limbs, eyes,
 and lives: and their elders have gone about among the victuallers and ale-houses,
 forbidding them to sell the Quakers either victuals or drink; intending,
 as far as in them lay, to starve Friends to death.
+
+====
 
 Many of these cruel and unreasonable practices being
 committed by the people in the view of the magistrates,
@@ -1034,6 +1039,9 @@ I shall think my pains well bestowed, having no end in what I shall write,
 but the promotion of God`'s everlasting truth,
 and the better being of thy never-dying soul.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ Thou sayest in thy letter, that thou, providentially, (for so to be sure it was,
 since a hair of our head falls not to the ground without a
@@ -1102,9 +1110,15 @@ and rely upon him for salvation, by the working of his holy Spirit in their hear
 [.numbered]
 15+++.+++ But wouldst gladly know what induces us to the above mentioned errors.
 
+====
+
 [.offset]
 To all which I answer in order:
 
+[.numbered-group]
+====
+
+[.numbered]
 To the 1st; It reminds me of that saying of Nathaniel, concerning the Lord Jesus Christ,
 '`Can any good thing come out of Nazareth?
 a mean despised place it seems; and also of the answer, '`Come and see.`'
@@ -1122,9 +1136,7 @@ and thy peace shall shine as the sun at noon-day.
 Then shall the substance take place in the midst of thee,
 and the shadows of the night shall fly before his glory.
 
-[.small-break]
-'''
-
+[.numbered]
 To the 2nd; That he trod the path of regeneration,
 died a sacrifice for the sins of the whole world, ascended above all heavens,
 and prepared the way for all that should believe and obey to the end of the world,
@@ -1146,9 +1158,7 @@ and reward of our own lusts and corruptions.
 The Lord open thy understanding by his divine power, and shine therein by his pure light,
 that thou mayest see all things as they are.
 
-[.small-break]
-'''
-
+[.numbered]
 To the 3rd; The plain sense of this is,
 that the great end of Christ`'s taking upon him our nature is,
 that he might thereby know how to pity our infirmities;
@@ -1486,9 +1496,7 @@ And that is the only thing that can truly satisfy,
 where the soul is alive by the breath of life from God, and hungry and thirsty indeed;
 though I am willing thus to take a little pains for thy present information.
 
-[.small-break]
-'''
-
+[.numbered]
 4thly, And now as to baptism: to John the Baptist,
 who was the immediate fore-runner of Christ, came the word of God in the wilderness,
 commanding him to preach repentance to the Jews, to whom alone he was sent,
@@ -1617,9 +1625,7 @@ who is the perfection of beauty, and head of all principality and power:
 so that if we have Christ we have all,
 and without him there is nothing at all in religion.
 
-[.small-break]
-'''
-
+[.numbered]
 To the 5th I answer.
 That this is a misapplication of the Scripture suggested in the expression;
 for the words are these,
@@ -1660,9 +1666,7 @@ and where no unclean thing can come.
 And the Lord bless thee, my unknown friend, with the knowledge of his love,
 and with a right understanding in all things.
 
-[.small-break]
-'''
-
+[.numbered]
 To the 6th and 7th;
 This likewise is a manifest wresting and misapplication
 of the holy Scripture alluded to in this place;
@@ -1698,9 +1702,7 @@ and follow and obey the light and life of the Son of God, in the way of regenera
 if ever thou thyself expects to enter his kingdom;
 which thou shall never see in any invention of the children of men.
 
-[.small-break]
-'''
-
+[.numbered]
 To the 8th; Where dost thou read,
 or what experience hast thou that these pretended
 sacraments are means to obtain the love or grace of God?
@@ -1719,9 +1721,7 @@ these thy ordinances as means of his love;
 but by the mercy of the Father through him, do enjoy it, at times when it pleaseth him,
 without any other means than his own free will and goodness.
 
-[.small-break]
-'''
-
+[.numbered]
 To the 9th; Time was when I was seeking the living among the dead,
 and the way to God and his kingdom among the lo-heres and lo-theres of the times;
 who were severally saying, Lo here, in our liturgy and ordinances; Lo there,
@@ -1734,9 +1734,7 @@ through the voice of him who speaks from heaven; and there is made known the way
 and I desire to walk on in Him who is the way, truth, light, life, and love,
 and leads to the God of love; to whom be renown, dominion, and glory, forever and ever.
 
-[.small-break]
-'''
-
+[.numbered]
 To the 10th: The Scripture saith, '`The things of God knoweth no man,
 but the Spirit of God, and God hath revealed them by his Spirit;
 for the Spirit (not the reason of man) searcheth all things, yea, the deep things of God.
@@ -1795,9 +1793,7 @@ and being come to the immortal substance, I have no need of them,
 but have the authority of the Lord and giver of life,
 and the enjoyment of the divine and everlasting substance, for leaving them behind.
 
-[.small-break]
-'''
-
+[.numbered]
 11th; The enemy of man having deceived him, under pretense of a friend,
 and wrought sin and iniquity in his heart, and thereby defiled him,
 and obtained a place in his heart, the Son of God,
@@ -2137,9 +2133,7 @@ and the wisdom and power of God, by their weak and carnal knowledge:
 for which the Most High will shortly rebuke them in judgment,
 and call them to account for their great presumption.
 
-[.small-break]
-'''
-
+[.numbered]
 Now, to the 12th head: though what has been said to the 11th,
 and some parts of the former, might be sufficient also to this; yet,
 being desirous to do thee all the help and service I may,
@@ -2209,9 +2203,7 @@ in the darkness of the earth and spirit and life of this world:
 yet He who tabernacles in his saints, shall shortly wipe away all tears from their eyes;
 and there shall be no more death unto them, neither sorrow, nor crying, nor pain.
 
-[.small-break]
-'''
-
+[.numbered]
 13th; I can assure thee, if thou canst believe me,
 that all true Quakers truly love the Lord Jesus Christ,
 and rely upon him alone for the completion of that salvation which he hath begun in us,
@@ -2232,9 +2224,7 @@ But whosoever shall deny me before men,
 him will I also deny before my Father which is in heaven.
 He that receives you, receives me; and he that receives me, receives him that sent me.
 
-[.small-break]
-'''
-
+[.numbered]
 14th; The garb, manners, and conversation of our people thou greatly likest.
 O my beloved friend, the Lord is come near thee, and hast thou considered it?
 In the love and fear of the Most High I write unto thee,
@@ -2254,10 +2244,10 @@ be offered and ascribed eternal honor and immortal praise; for he is worthy of a
 obedience and renown, forever and ever.
 Amen.
 
-[.small-break]
-'''
-
+[.numbered]
 The 15th head is answered in the whole, and needs no further.
+
+====
 
 [.signed-section-closing]
 Try all; hold the best. Farewell.
