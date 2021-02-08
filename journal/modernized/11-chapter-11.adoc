@@ -775,7 +775,7 @@ Many other people came to the meetings at Port Royal,
 and some were affected and tendered.`"
 
 [.offset]
-[After his return home, there is a chasm of between four and five years in his journal,
++++[+++After his return home, there is a chasm of between four and five years in his journal,
 of which time no account has been found among his papers.
 In the year 1710 he buried his wife,
 and was probably mostly employed in the duties
